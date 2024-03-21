@@ -7,3 +7,5 @@
 
 
 <a href="https://dvlp5riaeil69.cloudfront.net">Launch Application</a>
+
+<a href="https://keycloak-stg.odg-innolab.com/realms/odawara-stg-app/event?eventId=1707367485925">Launch Application Demo 2</a>
